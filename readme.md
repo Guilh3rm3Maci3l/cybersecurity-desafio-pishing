@@ -17,4 +17,4 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
-./informaçõescoletadas.png
+![Alt text](./informacoes.png "Optional title")
